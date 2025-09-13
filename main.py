@@ -15,5 +15,5 @@ if __name__ == '__main__':
 
 # https://www.jetbrains.com/help/pycharm/에서 PyCharm 도움말 참조
 
-#무야호
+# 무야호
 # 이민규
